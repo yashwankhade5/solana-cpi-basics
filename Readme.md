@@ -3,17 +3,16 @@
 This repository demonstrates **Cross Program Invocation (CPI)** in Solana using two simple Rust programs and their clients with tests.  
 It uses [LiteSVM](https://github.com/anza-xyz/litesvm) for local testing, so you don’t need to run a Solana validator or deploy to devnet for the included tests.
 
----
 
 ## 📂 Project Structure
 
+```text
 .
-├── double-contract/ # Simple program (doubles a counter value)
-│ └── client/ # Client + tests for double-contract
-├── cpi-program-contract/ # Program that makes a CPI call to double-contract
-│ └── client/ # Client + tests for cpi-program-contract
-
----
+├── double-contract/         # Simple program (doubles a counter value)
+│   └── client/              # Client + tests for double-contract
+├── cpi-program-contract/    # Program that makes a CPI call to double-contract
+│   └── client/              # Client + tests for cpi-program-contract
+```
 
 ## 🚀 Setup & Usage
 
