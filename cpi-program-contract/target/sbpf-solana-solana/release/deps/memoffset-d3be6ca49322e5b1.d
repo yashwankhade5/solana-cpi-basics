@@ -1,0 +1,10 @@
+/mnt/c/Users/yashw/Desktop/harkirat singh/cohort3.0 node/code written during the lecture class web3/cpi-contract/cpi-program-contract/target/sbpf-solana-solana/release/deps/libmemoffset-d3be6ca49322e5b1.rmeta: /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/lib.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/raw_field.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/offset_of.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/span_of.rs
+
+/mnt/c/Users/yashw/Desktop/harkirat singh/cohort3.0 node/code written during the lecture class web3/cpi-contract/cpi-program-contract/target/sbpf-solana-solana/release/deps/libmemoffset-d3be6ca49322e5b1.rlib: /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/lib.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/raw_field.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/offset_of.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/span_of.rs
+
+/mnt/c/Users/yashw/Desktop/harkirat singh/cohort3.0 node/code written during the lecture class web3/cpi-contract/cpi-program-contract/target/sbpf-solana-solana/release/deps/memoffset-d3be6ca49322e5b1.d: /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/lib.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/raw_field.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/offset_of.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/span_of.rs
+
+/home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/lib.rs:
+/home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/raw_field.rs:
+/home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/offset_of.rs:
+/home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/memoffset-0.9.1/src/span_of.rs:

@@ -1,0 +1,10 @@
+/mnt/c/Users/yashw/Desktop/harkirat singh/cohort3.0 node/code written during the lecture class web3/cpi-contract/cpi-program-contract/target/sbpf-solana-solana/release/deps/libthiserror-2c49a3b21c34b8f7.rmeta: /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/mnt/c/Users/yashw/Desktop/harkirat singh/cohort3.0 node/code written during the lecture class web3/cpi-contract/cpi-program-contract/target/sbpf-solana-solana/release/deps/libthiserror-2c49a3b21c34b8f7.rlib: /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/mnt/c/Users/yashw/Desktop/harkirat singh/cohort3.0 node/code written during the lecture class web3/cpi-contract/cpi-program-contract/target/sbpf-solana-solana/release/deps/thiserror-2c49a3b21c34b8f7.d: /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs:
+/home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs:
+/home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs:
+/home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs:

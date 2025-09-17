@@ -28,5 +28,5 @@ if counter.count ==0 {
 
 counter.serialize(&mut *data_account.data.borrow_mut())?;
 
-ProgramResult::Ok(())
+Ok(())
 }

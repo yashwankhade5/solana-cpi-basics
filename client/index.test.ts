@@ -42,7 +42,8 @@ test("one transfer", () => {
 const ins = new TransactionInstruction({
 	programId:contractpubkey,
 	keys:[
-		{pubkey:dataAccount.publicKey,isSigner:true,isWritable:true}
+		{pubkey:dataAccount.publicKey,isSigner:true,isWritable:true},
+		
 	],
 	data: Buffer.from([])
 })

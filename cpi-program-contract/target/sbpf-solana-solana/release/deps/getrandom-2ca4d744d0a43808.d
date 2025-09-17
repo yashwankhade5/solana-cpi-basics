@@ -1,0 +1,10 @@
+/mnt/c/Users/yashw/Desktop/harkirat singh/cohort3.0 node/code written during the lecture class web3/cpi-contract/cpi-program-contract/target/sbpf-solana-solana/release/deps/libgetrandom-2ca4d744d0a43808.rmeta: /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/lib.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/util.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/custom.rs
+
+/mnt/c/Users/yashw/Desktop/harkirat singh/cohort3.0 node/code written during the lecture class web3/cpi-contract/cpi-program-contract/target/sbpf-solana-solana/release/deps/libgetrandom-2ca4d744d0a43808.rlib: /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/lib.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/util.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/custom.rs
+
+/mnt/c/Users/yashw/Desktop/harkirat singh/cohort3.0 node/code written during the lecture class web3/cpi-contract/cpi-program-contract/target/sbpf-solana-solana/release/deps/getrandom-2ca4d744d0a43808.d: /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/lib.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/util.rs /home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/custom.rs
+
+/home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/lib.rs:
+/home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/error.rs:
+/home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/util.rs:
+/home/toor/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.16/src/custom.rs:
