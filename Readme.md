@@ -8,10 +8,11 @@ It uses [LiteSVM](https://github.com/anza-xyz/litesvm) for local testing, so you
 
 ```text
 .
-├── double-contract/         # Simple program (doubles a counter value)
-│   └── client/              # Client + tests for double-contract
-├── cpi-program-contract/    # Program that makes a CPI call to double-contract
-│   └── client/              # Client + tests for cpi-program-contract
+├── double-contract/          # Simple program (doubles a counter value)
+├── cpi-program-contract/     # Program that makes a CPI call to double-contract
+├── client/                   # Client + tests for double-contract
+├── client-cpi/               # Client + tests for cpi-program-contract
+
 ```
 
 ## 🚀 Setup & Usage
