@@ -1,0 +1,10 @@
+C:\Users\yashw\Desktop\harkirat singh\cohort3.0 node\code written during the lecture class web3\cpi-contract\cpi-program-contract\target\debug\deps\libc-769bd1f03333fbcd.d: C:\Users\yashw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.175\src\lib.rs C:\Users\yashw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.175\src\macros.rs C:\Users\yashw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.175\src\new\mod.rs C:\Users\yashw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.175\src\primitives.rs C:\Users\yashw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.175\src\windows\mod.rs C:\Users\yashw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.175\src\windows\msvc\mod.rs
+
+C:\Users\yashw\Desktop\harkirat singh\cohort3.0 node\code written during the lecture class web3\cpi-contract\cpi-program-contract\target\debug\deps\liblibc-769bd1f03333fbcd.rmeta: C:\Users\yashw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.175\src\lib.rs C:\Users\yashw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.175\src\macros.rs C:\Users\yashw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.175\src\new\mod.rs C:\Users\yashw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.175\src\primitives.rs C:\Users\yashw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.175\src\windows\mod.rs C:\Users\yashw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.175\src\windows\msvc\mod.rs
+
+C:\Users\yashw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.175\src\lib.rs:
+C:\Users\yashw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.175\src\macros.rs:
+C:\Users\yashw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.175\src\new\mod.rs:
+C:\Users\yashw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.175\src\primitives.rs:
+C:\Users\yashw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.175\src\windows\mod.rs:
+C:\Users\yashw\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.175\src\windows\msvc\mod.rs:
